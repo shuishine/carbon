@@ -1,0 +1,22 @@
+.site-layout-content {
+    min-height: 280px;
+    padding: 24px;
+}
+
+.logo {
+    float: left;
+    line-height: 32px;
+    height: 32px;
+    margin: 16px 24px 16px 0;
+}
+
+.logo img {
+    height: 100%
+}
+
+.header-right-bar {
+    float: right;
+    line-height: 32px;
+    height: 32px;
+    margin: 16px 0;
+}
